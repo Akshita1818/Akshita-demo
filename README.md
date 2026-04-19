@@ -1,3 +1,4 @@
 # Akshita-demo
 This is my first Git Repository .
-Author - Akshita
+Author - Akshita ( c++ Programmer)
+ 
